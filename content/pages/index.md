@@ -49,10 +49,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-6
-          - pb-6
-          - pl-6
-          - pr-6
+          - pt-5
+          - pb-5
+          - pl-5
+          - pr-5
         justifyContent: center
         borderRadius: none
         borderWidth: 0
