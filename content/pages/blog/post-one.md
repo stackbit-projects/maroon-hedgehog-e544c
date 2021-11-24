@@ -1,5 +1,5 @@
 ---
-title: This is a titledddfsdf
+title: This is a title
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
